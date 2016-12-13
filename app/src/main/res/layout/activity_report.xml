@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#5fb0c9">
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="158dp"
+        android:layout_y="108dp"
+        android:id="@+id/textView59" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="159dp"
+        android:layout_y="138dp"
+        android:id="@+id/textView62" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="160dp"
+        android:layout_y="174dp"
+        android:id="@+id/textView67" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="221dp"
+        android:layout_y="173dp"
+        android:id="@+id/textView68" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="160dp"
+        android:layout_y="205dp"
+        android:id="@+id/textView70" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="160dp"
+        android:layout_y="232dp"
+        android:id="@+id/textView73" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="223dp"
+        android:layout_y="233dp"
+        android:id="@+id/textView74" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="220dp"
+        android:layout_y="136dp"
+        android:id="@+id/textView63" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="221dp"
+        android:layout_y="203dp"
+        android:id="@+id/textView71" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="220dp"
+        android:layout_y="108dp"
+        android:id="@+id/textView60" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="50dp"
+        android:layout_y="77dp"
+        android:id="@+id/textView75" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="96dp"
+        android:layout_y="78dp"
+        android:id="@+id/textView66" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="96dp"
+        android:layout_y="108dp"
+        android:id="@+id/textView77" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="97dp"
+        android:layout_y="139dp"
+        android:id="@+id/textView78" />
+
+    <TextView
+        android:text="IS:INJECTION SPEED"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="298dp"
+        android:id="@+id/textView80" />
+
+    <TextView
+        android:text="SP:SCREW POSITION"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="4dp"
+        android:layout_y="318dp"
+        android:id="@+id/textView81" />
+
+    <TextView
+        android:text="HP:HOLDING PRESSURE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="4dp"
+        android:layout_y="340dp"
+        android:id="@+id/textView82" />
+
+    <TextView
+        android:text="HS:HOLDING SPEED"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="4dp"
+        android:layout_y="363dp"
+        android:id="@+id/textView83" />
+
+    <TextView
+        android:text="HT:HOLDING TIME"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="4dp"
+        android:layout_y="387dp"
+        android:id="@+id/textView84" />
+
+    <TextView
+        android:text="IP:INJECTION PRESSURE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="4dp"
+        android:layout_y="278dp"
+        android:id="@+id/textView79" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="279dp"
+        android:layout_y="74dp"
+        android:id="@+id/textView58" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="219dp"
+        android:layout_y="75dp"
+        android:id="@+id/textView57" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="278dp"
+        android:layout_y="104dp"
+        android:id="@+id/textView61" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="278dp"
+        android:layout_y="137dp"
+        android:id="@+id/textView64" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="278dp"
+        android:layout_y="200dp"
+        android:id="@+id/textView72" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="278dp"
+        android:layout_y="232dp"
+        android:id="@+id/textView65" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="278dp"
+        android:layout_y="172dp"
+        android:id="@+id/textView69" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="159dp"
+        android:layout_y="76dp"
+        android:id="@+id/textView56" />
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="50dp"
+        android:layout_y="108dp"
+        android:id="@+id/textView76" />
+
+    <TextView
+        android:text="SP:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="3dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:layout_y="136dp"
+        android:id="@+id/textView52" />
+
+    <TextView
+        android:text="HP:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="2dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:layout_y="169dp"
+        android:id="@+id/textView53" />
+
+    <TextView
+        android:text="HS:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="2dp"
+        android:layout_y="200dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:id="@+id/textView54" />
+
+    <TextView
+        android:text="HT:"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="2dp"
+        android:layout_y="230dp"
+        android:id="@+id/textView55" />
+
+    <TextView
+        android:text="IS:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:layout_x="4dp"
+        android:layout_y="106dp"
+        android:id="@+id/textView51" />
+
+    <TextView
+        android:text="IP:"
+        android:layout_width="wrap_content"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_x="4dp"
+        android:layout_y="76dp"
+        android:id="@+id/textView50" />
+
+    <TextView
+        android:text="OPT:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="164dp"
+        android:layout_y="32dp"
+        android:id="@+id/textView49" />
+
+    <TextView
+        android:text="%"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="234dp"
+        android:textSize="17sp"
+        android:layout_y="30dp"
+        android:id="@+id/textView85" />
+
+    <EditText
+        android:text="80"
+        android:layout_width="31dp"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:background="@drawable/edittextcircular"
+        android:textSize="14sp"
+        android:inputType="number"
+        android:layout_x="198dp"
+        android:layout_y="24dp"
+        android:id="@+id/optspeed" />
+
+    <EditText
+        android:text="5"
+        android:gravity="center"
+        android:inputType="number"
+        android:background="@drawable/edittextcircular"
+        android:layout_width="34dp"
+        android:layout_height="30dp"
+        android:layout_x="254dp"
+        android:textSize="14sp"
+        android:layout_y="25dp"
+        android:id="@+id/percent" />
+
+    <TextView
+        android:text="%"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="292dp"
+        android:textSize="17sp"
+        android:layout_y="31dp"
+        android:id="@+id/textView87" />
+
+    <TextView
+        android:text="%"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="149dp"
+        android:textSize="17sp"
+        android:layout_y="30dp"
+        android:id="@+id/textView86" />
+
+    <TextView
+        android:text="TP:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="82dp"
+        android:layout_y="31dp"
+        android:id="@+id/textView48" />
+
+    <EditText
+        android:text="95"
+        android:layout_width="38dp"
+        android:layout_height="31dp"
+        android:gravity="center"
+        android:background="@drawable/edittextcircular"
+        android:layout_x="106dp"
+        android:inputType="number"
+        android:textSize="14sp"
+        android:layout_y="22dp"
+        android:id="@+id/transferposition" />
+
+    <Button
+        android:text="EMAIL REPORT"
+        android:background="@drawable/edittextcircularb"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_x="138dp"
+        android:layout_y="393dp"
+        android:id="@+id/button8" />
+
+    <TextView
+        android:text="       "
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="31dp"
+        android:id="@+id/textView47" />
+
+</AbsoluteLayout>

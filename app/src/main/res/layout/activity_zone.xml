@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#5fb0c9">
+
+
+    <ImageView
+        android:elevation="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/zone_screw"
+        android:layout_x="0dp"
+        android:layout_y="61dp"
+        android:id="@+id/imageView" />
+
+    <Spinner
+        android:layout_width="261dp"
+        android:layout_height="wrap_content"
+        android:layout_x="20dp"
+        android:layout_y="14dp"
+        android:id="@+id/spinner3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="8dp"
+        android:background="@drawable/back"
+        android:layout_y="226dp"
+        android:id="@+id/textView29"
+        android:text="ZONE 1:" />
+
+    <TextView
+        android:text="ZONE 3:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/back"
+        android:layout_x="10dp"
+        android:layout_y="296dp"
+        android:id="@+id/textView31" />
+
+    <TextView
+        android:text="ZONE 2:"
+        android:layout_width="wrap_content"
+        android:background="@drawable/back"
+        android:layout_height="wrap_content"
+        android:layout_x="9dp"
+        android:layout_y="262dp"
+        android:id="@+id/textView30" />
+
+    <Button
+        android:text="SHOT SIZE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittextcircularb"
+        android:layout_x="119dp"
+        android:layout_y="398dp"
+        android:id="@+id/button4" />
+
+    <TextView
+        android:text="ZONE 5:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/back"
+        android:layout_x="12dp"
+        android:layout_y="367dp"
+        android:id="@+id/textView32" />
+
+    <TextView
+        android:text="ZONE 4:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/back"
+        android:layout_x="10dp"
+        android:layout_y="330dp"
+        android:id="@+id/textView33" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_x="80dp"
+        android:layout_y="370dp"
+        android:id="@+id/textView38"
+        android:text="AAA" />
+
+    <TextView
+        android:layout_width="wrap_content"
+
+        android:layout_height="32dp"
+        android:layout_x="80dp"
+        android:layout_y="334dp"
+        android:id="@+id/textView37"
+        android:text="AAA" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_x="78dp"
+        android:layout_y="300dp"
+        android:id="@+id/textView36"
+        android:text="AAA" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+
+        android:layout_x="76dp"
+        android:layout_y="267dp"
+        android:id="@+id/textView35"
+        android:text="AAA" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_x="76dp"
+
+        android:layout_y="232dp"
+        android:id="@+id/textView34"
+        android:text="AAA" />
+</AbsoluteLayout>

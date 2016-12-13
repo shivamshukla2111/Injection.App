@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.firstapp.shivam.injectionapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="SBS INJECTION SETTING"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name="com.firstapp.shivam.injectionapp.Login"
+            android:label="SBS INJECTION SETTING">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.firstapp.shivam.injectionapp.MainActivity"
+            android:label="CLAMPING TONNAGE"></activity>
+        <activity android:name="com.firstapp.shivam.injectionapp.MeteringLength"
+            android:label="SHOT SIZE"></activity>
+        <activity android:name="com.firstapp.shivam.injectionapp.Zone"
+            android:label="TEMPERATURE"></activity>
+        <activity android:name="com.firstapp.shivam.injectionapp.ResultTonnage"
+            android:label="RESULTS"></activity>
+        <activity android:name="com.firstapp.shivam.injectionapp.Injection"
+            android:label="PRESSURE AND SPEED"></activity>
+        <activity android:name="com.firstapp.shivam.injectionapp.Report"
+            android:label="REPORTS"></activity>
+    </application>
+
+</manifest>

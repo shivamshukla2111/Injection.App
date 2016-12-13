@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116431313972",
+    "firebase_url": "https://injectionapp-2f341.firebaseio.com",
+    "project_id": "injectionapp-2f341",
+    "storage_bucket": "injectionapp-2f341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116431313972:android:43ff01ec88b1d289",
+        "android_client_info": {
+          "package_name": "com.firstapp.shivam.injectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116431313972-1iq22nepse9e32duggkas76f9l37tdge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstapp.shivam.injectionapp",
+            "certificate_hash": "74A33181B73FF9CB05D3FB67624DE528F93FB5FC"
+          }
+        },
+        {
+          "client_id": "116431313972-7t9b85kjld9tjj81s3f9pf2u37fcjhm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5aWWh8w6Y2z51-Nl8rnHgXNfx8AAqoT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116431313972-7t9b85kjld9tjj81s3f9pf2u37fcjhm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

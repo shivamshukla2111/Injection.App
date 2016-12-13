@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#5fb0c9">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="234dp"
+        android:layout_y="74dp"
+        android:id="@+id/textView16" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="232dp"
+        android:layout_y="130dp"
+        android:id="@+id/textView18" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="232dp"
+        android:layout_y="172dp"
+        android:id="@+id/textView20" />
+
+    <TextView
+        android:text="Machine Tonnage "
+        android:layout_width="146dp"
+        android:layout_height="42dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:layout_x="34dp"
+        android:layout_y="168dp"
+        android:id="@+id/textView19" />
+
+    <TextView
+        android:text="Clamping Force as per Mold size"
+        android:layout_width="146dp"
+        android:background="@drawable/back"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:layout_x="34dp"
+        android:layout_y="116dp"
+        android:id="@+id/textView15" />
+
+    <TextView
+        android:text="Clamping Force as per part"
+        android:layout_width="148dp"
+        android:layout_height="52dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:layout_x="32dp"
+        android:layout_y="57dp"
+        android:id="@+id/textView17" />
+</AbsoluteLayout>

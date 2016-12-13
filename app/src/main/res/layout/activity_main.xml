@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#5fb0c9">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
+        android:inputType="numberDecimal"
+        android:hint="ENTER HEIGHT(mm)"
+        android:background="@drawable/edittextcircular"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_x="101dp"
+        android:layout_y="101dp"
+        android:id="@+id/editText3" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:inputType="numberDecimal"
+        android:hint="ENTER LENGTH(mm)"
+        android:background="@drawable/edittextcircular"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_x="102dp"
+        android:layout_y="7dp"
+        android:id="@+id/editText1" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:inputType="numberDecimal"
+        android:hint="SQUARE WIDTH(mm)"
+        android:background="@drawable/edittextcircular"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_x="104dp"
+        android:layout_y="188dp"
+        android:id="@+id/editText14" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:inputType="numberDecimal"
+        android:hint="SQUARE LENGHT(mm)"
+        android:background="@drawable/edittextcircular"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_x="103dp"
+        android:layout_y="150dp"
+        android:id="@+id/editText4" />
+
+    <Button
+        android:text="RESULT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittextcircularb"
+        android:layout_x="185dp"
+        android:layout_y="390dp"
+        android:id="@+id/button" />
+
+    <Button
+        android:text="SET TEMPERATURE"
+        android:layout_width="141dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittextcircularb"
+        android:layout_x="24dp"
+        android:layout_y="391dp"
+        android:id="@+id/button2" />
+
+    <TextView
+        android:text="NO OF CAVITIES"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/back"
+        android:layout_x="4dp"
+        android:layout_y="328dp"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:text="CIRCULAR PART"
+        android:layout_width="91dp"
+        android:layout_height="42dp"
+        android:background="@drawable/back"
+        android:layout_x="4dp"
+        android:layout_y="227dp"
+        android:id="@+id/textView5" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
+        android:inputType="numberDecimal"
+        android:hint="NO OF CAVITIES"
+        android:background="@drawable/edittextcircular"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_x="104dp"
+        android:layout_y="332dp"
+        android:id="@+id/editText16" />
+
+    <TextView
+        android:text="SQUARE PART"
+        android:layout_width="91dp"
+        android:layout_height="wrap_content"
+        android:layout_x="4dp"
+        android:background="@drawable/back"
+        android:layout_y="146dp"
+        android:id="@+id/textView4" />
+
+    <TextView
+        android:text="MOLD SIZE IN MM"
+        android:layout_width="91dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/back"
+        android:layout_x="4dp"
+        android:layout_y="6dp"
+        android:id="@+id/textView3" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
+        android:inputType="numberDecimal"
+        android:hint="ENTER THICKNESS(mm)"
+        android:background="@drawable/edittextcircular"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_x="105dp"
+        android:layout_y="278dp"
+        android:id="@+id/editText6" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:inputType="numberDecimal"
+        android:hint="ENTER DIAMETER(mm)"
+        android:background="@drawable/edittextcircular"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_x="107dp"
+        android:layout_y="232dp"
+        android:id="@+id/editText15" />
+
+    <TextView
+        android:text="THICKNESS"
+        android:layout_width="91dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/back"
+        android:layout_x="2dp"
+        android:layout_y="288dp"
+        android:id="@+id/textView6" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:hint="ENTER WIDTH(mm)"
+        android:background="@drawable/edittextcircular"
+        android:gravity="center"
+        android:layout_x="103dp"
+        android:layout_y="54dp"
+        android:id="@+id/editText2" />
+</AbsoluteLayout>
